@@ -73,6 +73,10 @@
     "surface-input-active": {
       "value": "$grey.grey-95",
       "type": "color"
+    },
+    "surface-input-text-inactive": {
+      "value": "$grey.grey-90",
+      "type": "color"
     }
   },
   "content": {
@@ -201,7 +205,7 @@
   },
   "border": {
     "border-primary": {
-      "value": "$background.background-base",
+      "value": "$grey.grey-90",
       "type": "color"
     },
     "border-secondary": {
