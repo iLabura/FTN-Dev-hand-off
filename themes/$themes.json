@@ -160,7 +160,8 @@
       "content.content-disabled": "S:67c8303c371841d29fd2dbc21600e88ef2fd1ee8,",
       "surface.surface-betslip-badge": "S:dc12be91c0d85837b022c3354496aa87e4437b21,",
       "content.content-on-betslip-badge": "S:e94dbc5040e3eb12cc4aa9a590d8edb4d19ba7ac,",
-      "surface.surface-nav": "S:f0946ac4796d84f63086e1649a6514b8a8ac062a,"
+      "surface.surface-nav": "S:f0946ac4796d84f63086e1649a6514b8a8ac062a,",
+      "content.content-perma-white": "S:e7d051599ff81ddfc470addb02b12401968612d3,"
     }
   },
   {
@@ -237,7 +238,8 @@
       "content.content-disabled": "S:b0428d4f80ca9ff703ee49cf80404793f68d0be6,",
       "surface.surface-nav": "S:49cb7ba73f85b818db39b021b77f178f3f28fc18,",
       "surface.surface-betslip-badge": "S:c30fc9bdf7b8afab1142fac639d419552a5a67de,",
-      "content.content-on-betslip-badge": "S:f1c3a0b1c67fcee126f25f10d04d1e64f2ea2460,"
+      "content.content-on-betslip-badge": "S:f1c3a0b1c67fcee126f25f10d04d1e64f2ea2460,",
+      "content.content-perma-white": "S:bdff390dc549762cf1cf4dab6dcfa8c313fa5b7a,"
     }
   },
   {
@@ -314,7 +316,8 @@
       "content.content-disabled": "S:795ea8510cace5224c37d448a6ded0c97c0a2601,",
       "surface.surface-betslip-badge": "S:f0f4210c5cf1dcff90de529222f1725fe96b35c1,",
       "content.content-on-betslip-badge": "S:cbe27fd2b335bc482419deeb8e7fde3491104b08,",
-      "surface.surface-nav": "S:46735ffb85a9a023ff313936d69132e57c5f82d5,"
+      "surface.surface-nav": "S:46735ffb85a9a023ff313936d69132e57c5f82d5,",
+      "content.content-perma-white": "S:707e191553e7cfcd296ebc40194f8a1f4fcf816e,"
     }
   },
   {
@@ -391,7 +394,8 @@
       "content.content-disabled": "S:e2e9d505cfce2a87ce86fc06fd44edbe9a96e9fb,",
       "surface.surface-betslip-badge": "S:ee4182ce5852b65f9b619e35b4cb9ba6c4089de2,",
       "content.content-on-betslip-badge": "S:aa487bfda708da8a9821af0f43b6fd961f7fae65,",
-      "surface.surface-nav": "S:22ab40dc9b9212aac8bdcec5cb515451e554e563,"
+      "surface.surface-nav": "S:22ab40dc9b9212aac8bdcec5cb515451e554e563,",
+      "content.content-perma-white": "S:12bf6be4b2caad47ea07abcdeaaf35d25b8b8c9a,"
     }
   },
   {
@@ -468,7 +472,8 @@
       "content.content-disabled": "S:364200a04402a7cad1a71b61a9d5b8c2382e098f,",
       "surface.surface-betslip-badge": "S:8459f08b328feff3b03f547a7c0efc8a21da9c3d,",
       "content.content-on-betslip-badge": "S:a9090e7097221507c683b8f5af92fc878de2531e,",
-      "surface.surface-nav": "S:478dd94479172106c60f42eafa92b6a7d3168305,"
+      "surface.surface-nav": "S:478dd94479172106c60f42eafa92b6a7d3168305,",
+      "content.content-perma-white": "S:46f3faec0307f36f65dcd51f54d1fd3ed5adbfed,"
     }
   },
   {
@@ -545,7 +550,8 @@
       "content.content-disabled": "S:3612b30b915d189827b833640f010070439ff210,",
       "surface.surface-betslip-badge": "S:bd745a6bee14704d03728945b1f53ed87973b883,",
       "content.content-on-betslip-badge": "S:99479d685c9aad06ee1861a51470be0db4e39250,",
-      "surface.surface-nav": "S:9661815850f78db8cfc56ee6c4d189e113188d51,"
+      "surface.surface-nav": "S:9661815850f78db8cfc56ee6c4d189e113188d51,",
+      "content.content-perma-white": "S:486a71860dce519ca32bba531dbb8039218c6f26,"
     }
   }
 ]

@@ -35,6 +35,10 @@
     "surface-betslip-badge": {
       "value": "$base.black",
       "type": "color"
+    },
+    "surface-notification-badge": {
+      "value": "{red.red-30}",
+      "type": "color"
     }
   },
   "content": {
@@ -92,6 +96,10 @@
     },
     "content-on-betslip-badge": {
       "value": "$base.white",
+      "type": "color"
+    },
+    "content-on-notification-badge": {
+      "value": "{base.white}",
       "type": "color"
     }
   },
