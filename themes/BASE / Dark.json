@@ -43,13 +43,22 @@
       "value": "$base.black",
       "type": "color"
     },
-    "surface-input-inactive": {
-      "value": "$grey.grey-25",
+    "surface-input": {
+      "value": "$grey.grey-10",
       "type": "color"
     },
-    "surface-input-active": {
-      "value": "$grey.grey-15",
-      "type": "color"
+    "surface-input-error": {
+      "value": "$red.red-10",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.7",
+            "space": "lch"
+          }
+        }
+      }
     },
     "surface-input-text-inactive": {
       "value": "$grey.grey-15",
@@ -58,21 +67,6 @@
     "surface-nav": {
       "value": "$grey.grey-10",
       "type": "color"
-    },
-    "transparent": {
-      "primary-70": {
-        "value": "{surface.surface-primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "lch"
-            }
-          }
-        }
-      }
     }
   },
   "content": {
@@ -111,6 +105,14 @@
     "content-disabled": {
       "value": "$grey.grey-50",
       "type": "color"
+    },
+    "content-error": {
+      "value": "{red.red-90}",
+      "type": "color"
+    },
+    "content-placeholder": {
+      "value": "{grey.grey-40}",
+      "type": "color"
     }
   },
   "border": {
@@ -145,35 +147,72 @@
       "type": "color"
     },
     "overlay-gradient": {
-      "value": "linear-gradient(0deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0) 100%)",
+      "value": "linear-gradient (0deg, rgba({base.black} , 0.4) 0%, rgba({base.black} , 0) 100%)",
       "type": "color"
     },
-    "overlay-gradient-primary-0deg-0-30": {
-      "value": "linear-gradient(0deg, {surface.transparent.primary-70} 0%, {surface.surface-primary} 100%);",
+    "overlay-gradient-primary-on-avatar-edit": {
+      "value": "linear-gradient (0deg, rgba({surface.surface-primary}, 0.7) 0%, rgba({surface.surface-primary}, 1) 100%)",
+      "type": "color"
+    },
+    "overlay-navigation": {
+      "value": "rgba({surface.surface-primary} , 0.8)",
+      "type": "color"
+    },
+    "overlay-tooltip-default": {
+      "value": "rgba( {grey.grey-30} , 0.8)",
+      "type": "color"
+    },
+    "overlay-error": {
+      "value": "rgba( {meaning.negative} , 0.8)",
+      "type": "color"
+    },
+    "overlay-info": {
+      "value": "rgba( {meaning.info} , 0.8)",
+      "type": "color"
+    },
+    "overlay-positive": {
+      "value": "rgba( {meaning.positive} , 0.8)",
       "type": "color"
     }
   },
-  "color": {
-    "overlay": {
-      "navigation": {
-        "value": "rgba({surface.surface-primary} , 0.8)",
-        "type": "color"
-      },
-      "tooltip-default": {
-        "value": "rgba( {grey.grey-30} , 0.8)",
-        "type": "color"
-      },
-      "error": {
-        "value": "rgba( {meaning.negative} , 0.8)",
-        "type": "color"
-      },
-      "info": {
-        "value": "rgba( {meaning.info} , 0.8)",
-        "type": "color"
-      },
-      "positive": {
-        "value": "rgba( {meaning.positive} , 0.8)",
-        "type": "color"
+  "odd-button": {
+    "odd-button-default": {
+      "value": "{base.white}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "odd-button-hover": {
+      "value": "{base.white}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.15",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "odd-button-disabled": {
+      "value": "{base.white}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0",
+            "space": "lch"
+          }
+        }
       }
     }
   },
@@ -181,7 +220,7 @@
     "tooltip": {
       "default": {
         "value": {
-          "fill": "{color.overlay.tooltip-default}",
+          "fill": "{overlay.overlay-tooltip-default}",
           "backgroundBlur": "8",
           "borderRadius": "{radius-small}",
           "boxShadow": "{outer.shadow-outer-large}",
@@ -192,7 +231,7 @@
       },
       "error": {
         "value": {
-          "fill": "{color.overlay.error}",
+          "fill": "{overlay.overlay-error}",
           "backgroundBlur": "8",
           "borderRadius": "{radius-small}",
           "boxShadow": "{outer.shadow-outer-large}"
@@ -201,7 +240,7 @@
       },
       "info": {
         "value": {
-          "fill": "{color.overlay.info}",
+          "fill": "{overlay.overlay-info}",
           "backgroundBlur": "8",
           "borderRadius": "{radius-small}",
           "boxShadow": "{outer.shadow-outer-large}"
@@ -212,7 +251,7 @@
     "snackbar": {
       "alert": {
         "value": {
-          "fill": "{color.overlay.error}",
+          "fill": "{overlay.overlay-error}",
           "horizontalPadding": "{space-large}",
           "verticalPadding": "{space-mezzo-12}",
           "borderRadius": "{radius-medium}",
@@ -223,7 +262,7 @@
       },
       "info": {
         "value": {
-          "fill": "{color.overlay.info}",
+          "fill": "{overlay.overlay-info}",
           "horizontalPadding": "{space-large}",
           "verticalPadding": "{space-mezzo-12}",
           "borderRadius": "{radius-medium}",
@@ -234,7 +273,7 @@
       },
       "positive": {
         "value": {
-          "fill": "{color.overlay.positive}",
+          "fill": "{overlay.overlay-positive}",
           "horizontalPadding": "{space-large}",
           "verticalPadding": "{space-mezzo-12}",
           "borderRadius": "{radius-medium}",
@@ -248,14 +287,14 @@
   "special-surface": {
     "navigation-bar": {
       "value": {
-        "fill": "{color.overlay.navigation}",
+        "fill": "{overlay.overlay-navigation}",
         "backgroundBlur": "8"
       },
       "type": "composition"
     },
-    "glass-gradient-primary-0deg": {
+    "glass-gradient-primary-on-avatar-edit": {
       "value": {
-        "fill": "{overlay.overlay-gradient-primary-0deg-0-30}",
+        "fill": "{overlay.overlay-gradient-primary-on-avatar-edit}",
         "backgroundBlur": "10"
       },
       "type": "composition"

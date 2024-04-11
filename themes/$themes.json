@@ -161,7 +161,22 @@
       "surface.surface-betslip-badge": "S:dc12be91c0d85837b022c3354496aa87e4437b21,",
       "content.content-on-betslip-badge": "S:e94dbc5040e3eb12cc4aa9a590d8edb4d19ba7ac,",
       "surface.surface-nav": "S:f0946ac4796d84f63086e1649a6514b8a8ac062a,",
-      "content.content-perma-white": "S:e7d051599ff81ddfc470addb02b12401968612d3,"
+      "content.content-perma-white": "S:e7d051599ff81ddfc470addb02b12401968612d3,",
+      "surface.surface-notification-badge": "S:a31c5b4d8719e0463087406c092d7356cdee0d10,",
+      "content.content-on-notification-badge": "S:d60f01acb3bf7de36b0f164c45ed0f10268d9cd9,",
+      "surface.surface-input": "S:1c0b07fff7ed897f246b6f75e6ca87a73c33fa0b,",
+      "surface.surface-input-error": "S:947196276f78d57f062ddc14ae1e8e45bf383018,",
+      "content.content-error": "S:9e0ee17dc9a5e8a73aec3e1e3d8fb96585cc23f7,",
+      "content.content-placeholder": "S:35cfd91332c642af5179cee5b7f1f4f537433f18,",
+      "overlay.overlay-gradient-primary-on-avatar-edit": "S:f9916b3cde2038737f255eb0c0ea4045f8f24ce2,",
+      "overlay.overlay-navigation": "S:19d5fd6d96ceb61da3c74de8fa4eab3803d228e9,",
+      "overlay.overlay-tooltip-default": "S:9ed7c54a98cd719cb9fac0761ae61413eda3db20,",
+      "overlay.overlay-error": "S:21ca1de3adc852e9891a4ae0856fa44bc18d93ec,",
+      "overlay.overlay-info": "S:8352a064e09365b7875aabb06dd0247faf54c855,",
+      "overlay.overlay-positive": "S:610fa73c15fea2baeb9c876e00b676fc2c4126cb,",
+      "odd-button.odd-button-default": "S:ce736344545242f3850ebd615d278bbf58384662,",
+      "odd-button.odd-button-hover": "S:1344cee80a9876eb785bece1f015ed4ccf68c8ca,",
+      "odd-button.odd-button-disabled": "S:a29f331ba6b5625801a4287e9fd5630d94407db3,"
     }
   },
   {
@@ -239,7 +254,29 @@
       "surface.surface-nav": "S:49cb7ba73f85b818db39b021b77f178f3f28fc18,",
       "surface.surface-betslip-badge": "S:c30fc9bdf7b8afab1142fac639d419552a5a67de,",
       "content.content-on-betslip-badge": "S:f1c3a0b1c67fcee126f25f10d04d1e64f2ea2460,",
-      "content.content-perma-white": "S:bdff390dc549762cf1cf4dab6dcfa8c313fa5b7a,"
+      "content.content-perma-white": "S:bdff390dc549762cf1cf4dab6dcfa8c313fa5b7a,",
+      "surface.surface-notification-badge": "S:5a2b07888b8e907a8322668341cb0dbb4caba531,",
+      "content.content-on-notification-badge": "S:b8262b5c31e82989fb31991757c902533b1c9521,",
+      "surface.transparent.primary-70": "S:0db8f9416080620b19327fdaa6297b9772e17f53,",
+      "overlay.gradient-primary-0deg-70-100": "S:27b1d4e8a27a5ea2fba6879dd14147bd7ae964e2,",
+      "color.overlay.navigation": "S:87e56dfd9f610024ee2a8669f8f5e087466649f4,",
+      "color.overlay.tooltip-default": "S:60ab552e2253d2c57f997b8a302127a99c9d82a7,",
+      "color.overlay.error": "S:890ee3e3769b599dd7948a779a444ef2cf9e095d,",
+      "color.overlay.info": "S:1a6bce745b2b2723ae82cc5211d316b3c2c4579c,",
+      "color.overlay.positive": "S:733eb844ea117ed287044591e1d2d97c3d531934,",
+      "surface.surface-input": "S:d3e260f2aa59e1971bb0434cdbbacfafb33a094b,",
+      "surface.surface-input-error": "S:9fc407a0c0d3b65e342956fb87ce92c179f038cc,",
+      "content.content-error": "S:0337ee6b66d4008c81223b57d43b469738132b75,",
+      "content.contet-placeholder": "S:b15e465ed5fce4fb27b6bdd1564a4d00cd7eb8f8,",
+      "overlay.overlay-gradient-primary-on-avatar-edit": "S:1810e8f8cb39b159ed67d3a0c4571502aa065bf8,",
+      "overlay.overlay-navigation": "S:020ea527e7a7d109360a39a256c6bde91d3b30b1,",
+      "overlay.overlay-tooltip-default": "S:b9920df51ad55b2cb8462017d965ecdd1db33544,",
+      "overlay.overlay-error": "S:375d95c5b380fd88d69a89761e7469e8ec4be64a,",
+      "overlay.overlay-info": "S:427e1835ee293af50cc2a397e1a26be94fa83f0a,",
+      "overlay.overlay-positive": "S:8e423c6af03fcace69cbee58189b09969a59dcc3,",
+      "odd-button.odd-button-default": "S:cda149d1392f048dc555324e30ea502f29546fef,",
+      "odd-button.odd-button-hover": "S:9fee82f9914da7a6f3814c007805cc73f047697c,",
+      "odd-button.odd-button-disabled": "S:02f8ae765168919ed2fba51cac44c08e65c16f79,"
     }
   },
   {
@@ -317,7 +354,22 @@
       "surface.surface-betslip-badge": "S:f0f4210c5cf1dcff90de529222f1725fe96b35c1,",
       "content.content-on-betslip-badge": "S:cbe27fd2b335bc482419deeb8e7fde3491104b08,",
       "surface.surface-nav": "S:46735ffb85a9a023ff313936d69132e57c5f82d5,",
-      "content.content-perma-white": "S:707e191553e7cfcd296ebc40194f8a1f4fcf816e,"
+      "content.content-perma-white": "S:707e191553e7cfcd296ebc40194f8a1f4fcf816e,",
+      "surface.surface-notification-badge": "S:5bdbad851bf4b57510f1be32966b7378d31771e3,",
+      "content.content-on-notification-badge": "S:645b4a6d2ec40391cf0c884fc5792f3c6f958257,",
+      "surface.surface-input": "S:b8d61ebf554e80f49319d0e5d704e0904600654f,",
+      "surface.surface-input-error": "S:789e8a3b23f59f3cd93e0ad612b9c47769bb9985,",
+      "content.content-error": "S:73e6eff91653008476b45db08111a63970cec087,",
+      "content.contet-placeholder": "S:6248ad1d5538e582176f52491059fc041a4a9266,",
+      "overlay.overlay-gradient-primary-on-avatar-edit": "S:1047c8923ba151f5a88698bc47821bb3a89a1ca7,",
+      "overlay.overlay-navigation": "S:826a985f5b4c9ef987b16c98a3d35b1c0d2657e4,",
+      "overlay.overlay-tooltip-default": "S:b889dd90d24ab3434df75c5e3a84be7ccc3da2f4,",
+      "overlay.overlay-error": "S:cac3787ba691a670b55caaa0c62fcc85ce08fb14,",
+      "overlay.overlay-info": "S:6a559b0f792fe4e178dc19b76321f710210f405f,",
+      "overlay.overlay-positive": "S:9d3e16a8dfffdd4011a18893d0475e8ebb911354,",
+      "odd-button.odd-button-default": "S:47392db510d991e72bb7cd69d16329cf9761267e,",
+      "odd-button.odd-button-hover": "S:6a7881714fccae0a1dd0dfee89a03b916107d4b2,",
+      "odd-button.odd-button-disabled": "S:52d121f93ceee5dd4e1643c079082bd03d6bce89,"
     }
   },
   {
@@ -395,7 +447,22 @@
       "surface.surface-betslip-badge": "S:ee4182ce5852b65f9b619e35b4cb9ba6c4089de2,",
       "content.content-on-betslip-badge": "S:aa487bfda708da8a9821af0f43b6fd961f7fae65,",
       "surface.surface-nav": "S:22ab40dc9b9212aac8bdcec5cb515451e554e563,",
-      "content.content-perma-white": "S:12bf6be4b2caad47ea07abcdeaaf35d25b8b8c9a,"
+      "content.content-perma-white": "S:12bf6be4b2caad47ea07abcdeaaf35d25b8b8c9a,",
+      "surface.surface-notification-badge": "S:d978be23196f2a6c0856f21cd165b7563de340a6,",
+      "content.content-on-notification-badge": "S:ac458d2dd09809fb99140fa7a4a3ecc0dd043724,",
+      "surface.surface-input": "S:5db21ed8eea863c05a91787c7246c5df6d7a3b24,",
+      "surface.surface-input-error": "S:54b05c7eae68ce363769b09a30cf66bf693c3e2d,",
+      "content.content-error": "S:070f1eda902ec0a2a72e4ca54e9771da755ad934,",
+      "content.content-placeholder": "S:75d2da522207ea71967f3cbb1069d270342dfa5c,",
+      "overlay.overlay-gradient-primary-on-avatar-edit": "S:7671c0783be9791e06fdbd8257ee83ac0049aca8,",
+      "overlay.overlay-navigation": "S:1ab83783690824db3494f78057c12505065cb943,",
+      "overlay.overlay-tooltip-default": "S:adf6e71cc30c277e3cb7a2064bb71d789190e6bf,",
+      "overlay.overlay-error": "S:7be8ddea220d95e09246afef5b8fdf069361602f,",
+      "overlay.overlay-info": "S:1f2a9b75b0ef7aca651a7299f15c5d50d3cd6b92,",
+      "overlay.overlay-positive": "S:850964d3b44f1117605c5389ae5ebe20800df156,",
+      "odd-button.odd-button-default": "S:ec601835c1bcbd0b14bc3db7064c501521be252f,",
+      "odd-button.odd-button-hover": "S:1b869ab79eddd58d0268fa031270c850f7a835f0,",
+      "odd-button.odd-button-disabled": "S:491e608d8e380f190b624440039871b59b4887fc,"
     }
   },
   {
@@ -473,7 +540,22 @@
       "surface.surface-betslip-badge": "S:8459f08b328feff3b03f547a7c0efc8a21da9c3d,",
       "content.content-on-betslip-badge": "S:a9090e7097221507c683b8f5af92fc878de2531e,",
       "surface.surface-nav": "S:478dd94479172106c60f42eafa92b6a7d3168305,",
-      "content.content-perma-white": "S:46f3faec0307f36f65dcd51f54d1fd3ed5adbfed,"
+      "content.content-perma-white": "S:46f3faec0307f36f65dcd51f54d1fd3ed5adbfed,",
+      "surface.surface-notification-badge": "S:95e15c473a88919a14a33d6c3e4c592b4e1d15f0,",
+      "content.content-on-notification-badge": "S:bde6c9e6ed62d2bddfb93bbf5b81eb39e7c7ab9c,",
+      "surface.surface-input": "S:cb7729ddd730eff6749aa14c8ce2f49c19b4d78d,",
+      "surface.surface-input-error": "S:da6f5ea3041d9af39dd939c0f72391a5a9c45f24,",
+      "content.content-error": "S:2c1ca9ff5d6647703a577d643e9c82b664ca66b1,",
+      "content.contet-placeholder": "S:e46f6d2f63f923625913d5ef38e8ff37a82822d6,",
+      "overlay.overlay-gradient-primary-on-avatar-edit": "S:f0f14886e9f28bd58260de7237b82f88766dd815,",
+      "overlay.overlay-navigation": "S:c281a8ec594b77c7aad26db9ee4c96a0ef71bd56,",
+      "overlay.overlay-tooltip-default": "S:367e2a916270d5d1364a9bfcbd775c97196eaa9c,",
+      "overlay.overlay-error": "S:659e6bf541df4bbfecf8b84485454270f896e4ca,",
+      "overlay.overlay-info": "S:a46fcbbee6fac4f8eeca21982a15dae6a614cf6b,",
+      "overlay.overlay-positive": "S:798e2a093600ae3634f35c6cd890ca8a43fa65ad,",
+      "odd-button.odd-button-default": "S:b27055aec5e2675c601cd8fb223c868d80164160,",
+      "odd-button.odd-button-hover": "S:4c0714c3a55067fe995fe518dd6299cebc92021b,",
+      "odd-button.odd-button-disabled": "S:97e5798ede2a4bc5bf3fa9a6c8498fd2e1c38ec1,"
     }
   },
   {
@@ -551,7 +633,22 @@
       "surface.surface-betslip-badge": "S:bd745a6bee14704d03728945b1f53ed87973b883,",
       "content.content-on-betslip-badge": "S:99479d685c9aad06ee1861a51470be0db4e39250,",
       "surface.surface-nav": "S:9661815850f78db8cfc56ee6c4d189e113188d51,",
-      "content.content-perma-white": "S:486a71860dce519ca32bba531dbb8039218c6f26,"
+      "content.content-perma-white": "S:486a71860dce519ca32bba531dbb8039218c6f26,",
+      "surface.surface-notification-badge": "S:8e5070f6c53f15fd97b235180d94b8ca8c4ea013,",
+      "content.content-on-notification-badge": "S:29b5fbbaadee2f59a2443d83c66857e1542008c5,",
+      "surface.surface-input": "S:0ebc7d45a903bc826313d58432ab9d10697d489d,",
+      "surface.surface-input-error": "S:39567d035f9ef5bb32dab0c17c4d4c2d86610ea6,",
+      "content.content-error": "S:478b94b256473705ad233da24298adf0ceb96b75,",
+      "content.content-placeholder": "S:daf7447ecfdb1299b8a11d7c0181a094e53cf41b,",
+      "overlay.overlay-gradient-primary-on-avatar-edit": "S:bcae8d1380bc98a500605ccf3b8c2fd421eccc91,",
+      "overlay.overlay-navigation": "S:b12456685b8b25a9258d6d6afec1949c7fb8b38d,",
+      "overlay.overlay-tooltip-default": "S:4e1d560a91e0d2c0fffb8b987d74e5e131fdf2ba,",
+      "overlay.overlay-error": "S:bbff59aaae3511fae340b6a281f8f981fe3af67e,",
+      "overlay.overlay-info": "S:5161540ce765a1b0959aa9a240db2e9f31268e44,",
+      "overlay.overlay-positive": "S:40570dc668630501aa06348a89a78ecbb040d332,",
+      "odd-button.odd-button-default": "S:bed81493ab27667f38d706c5ea1f1ab98fa6c654,",
+      "odd-button.odd-button-hover": "S:ed0da2e3f69e5b40b18f5959d41218858f35cf6d,",
+      "odd-button.odd-button-disabled": "S:eee2f0940105624cf1c52b8d1e90eb6235fb214a,"
     }
   }
 ]
