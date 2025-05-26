@@ -49,15 +49,15 @@
       "type": "color"
     },
     "psk-brand-secondary-light": {
-      "value": "#add9ff",
+      "value": "#0084FF",
       "type": "color"
     },
     "psk-brand-secondary": {
-      "value": "#3ea6ff",
+      "value": "#0071F2",
       "type": "color"
     },
     "psk-brand-secondary-dark": {
-      "value": "#006ecc",
+      "value": "#0066DB",
       "type": "color"
     }
   },

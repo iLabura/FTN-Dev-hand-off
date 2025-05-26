@@ -105,11 +105,11 @@
   },
   "meaning": {
     "positive": {
-      "value": "$green.green-50",
+      "value": "$green.green-40",
       "type": "color"
     },
     "positive-hover": {
-      "value": "$green.green-60",
+      "value": "$green.green-50",
       "type": "color"
     },
     "negative": {
@@ -125,11 +125,11 @@
       "type": "color"
     },
     "info": {
-      "value": "$blue.blue-50",
+      "value": "$blue.blue-40",
       "type": "color"
     },
     "money": {
-      "value": "$green.green-50",
+      "value": "$green.green-40",
       "type": "color"
     },
     "win": {
@@ -141,7 +141,7 @@
       "type": "color"
     },
     "live": {
-      "value": "$green.green-50",
+      "value": "$green.green-40",
       "type": "color"
     }
   },
