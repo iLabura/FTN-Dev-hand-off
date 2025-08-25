@@ -176,7 +176,8 @@
       "overlay.overlay-positive": "S:610fa73c15fea2baeb9c876e00b676fc2c4126cb,",
       "odd-button.odd-button-default": "S:ce736344545242f3850ebd615d278bbf58384662,",
       "odd-button.odd-button-hover": "S:1344cee80a9876eb785bece1f015ed4ccf68c8ca,",
-      "odd-button.odd-button-disabled": "S:a29f331ba6b5625801a4287e9fd5630d94407db3,"
+      "odd-button.odd-button-disabled": "S:a29f331ba6b5625801a4287e9fd5630d94407db3,",
+      "surface.surface-comment-blocked": "S:de1e64bae54e5efcb7a4eb6209ec2d2975c1a2ec,"
     }
   },
   {
@@ -276,7 +277,8 @@
       "overlay.overlay-positive": "S:8e423c6af03fcace69cbee58189b09969a59dcc3,",
       "odd-button.odd-button-default": "S:cda149d1392f048dc555324e30ea502f29546fef,",
       "odd-button.odd-button-hover": "S:9fee82f9914da7a6f3814c007805cc73f047697c,",
-      "odd-button.odd-button-disabled": "S:02f8ae765168919ed2fba51cac44c08e65c16f79,"
+      "odd-button.odd-button-disabled": "S:02f8ae765168919ed2fba51cac44c08e65c16f79,",
+      "surface.surface-comment-blocked": "S:e08f72837d32c43573d404dd59dc1c251ddab202,"
     }
   },
   {

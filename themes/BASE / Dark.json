@@ -2,50 +2,60 @@
   "background": {
     "background-base": {
       "value": "$grey.grey-10",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the base background of the application."
     },
     "gm-background-base": {
       "value": "$grey.grey-30",
-      "type": "color"
+      "type": "color",
+      "description": "Deprecated"
     },
     "background-progress-bar": {
       "value": "$grey.grey-40",
       "type": "color",
-      "description": "To be used on progress-bar backgrounds."
+      "description": "Used on progress-bar backgrounds."
     }
   },
   "surface": {
     "surface-primary": {
       "value": "$grey.grey-20",
-      "type": "color"
+      "type": "color",
+      "description": "Used on the primary surface of components."
     },
     "surface-secondary": {
       "value": "$grey.grey-15",
-      "type": "color"
+      "type": "color",
+      "description": "Used on secondary surfaces within the UI."
     },
     "surface-panel": {
       "value": "$grey.grey-25",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the background of panels."
     },
     "surface-action-regular": {
       "value": "$grey.grey-30",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the default state of interactive elements."
     },
     "surface-action-regular--hover": {
       "value": "$grey.grey-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the hover state of interactive elements."
     },
     "gradient": {
       "value": "linear-gradient(0deg, $grey.grey-15 0%, $grey.grey-20 100%);",
-      "type": "color"
+      "type": "color",
+      "description": "Used for gradient fills on surfaces."
     },
     "surface-inverted-bw": {
       "value": "$base.black",
-      "type": "color"
+      "type": "color",
+      "description": "Used on inverted black and white surfaces."
     },
     "surface-input": {
       "value": "$grey.grey-10",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the background of input fields."
     },
     "surface-input-error": {
       "value": "$red.red-10",
@@ -58,121 +68,154 @@
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Used for the background of input fields when an error occurs."
     },
     "surface-input-text-inactive": {
       "value": "$grey.grey-15",
-      "type": "color"
+      "type": "color",
+      "description": "Deprecated"
     },
     "surface-nav": {
       "value": "$grey.grey-10",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the background of navigation elements."
+    },
+    "surface-comment-blocked": {
+      "value": "$blue.blue-25",
+      "type": "color",
+      "description": "Used exculsevley on blocked comments inside of chat."
     }
   },
   "content": {
     "content-primary": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used for primary text and icons."
     },
     "content-secondary": {
       "value": "$grey.grey-80",
-      "type": "color"
+      "type": "color",
+      "description": "Used for secondary text and icons, often for less prominent information."
     },
     "content-tertiary": {
       "value": "$grey.grey-70",
-      "type": "color"
+      "type": "color",
+      "description": "Used for tertiary text and icons, typically for supportive or subtle details."
     },
     "content-on-content-primary": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Deprecated"
     },
     "content-form-label-text": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Deprecated"
     },
     "content-primary-inverted": {
       "value": "$base.black",
-      "type": "color"
+      "type": "color",
+      "description": "Used as an inverted primary-content token."
     },
     "content-perma-black": {
       "value": "$base.black",
-      "type": "color"
+      "type": "color",
+      "description": "Used for content that should always be black, regardless of theme."
     },
     "content-perma-white": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used for content that should always be white, regardless of theme."
     },
     "content-disabled": {
       "value": "$grey.grey-50",
-      "type": "color"
+      "type": "color",
+      "description": "Used for text and icons in a disabled state."
     },
     "content-error": {
       "value": "{red.red-90}",
-      "type": "color"
+      "type": "color",
+      "description": "Used for indicating errors in text or icons."
     },
     "content-placeholder": {
       "value": "{grey.grey-40}",
-      "type": "color"
+      "type": "color",
+      "description": "Used for placeholder text in input fields."
     }
   },
   "border": {
     "border-primary": {
       "value": "$grey.grey-10",
-      "type": "color"
+      "type": "color",
+      "description": "Used for primary borders and outlines."
     },
     "border-secondary": {
       "value": "$grey.grey-15",
-      "type": "color"
+      "type": "color",
+      "description": "Used for secondary borders and dividers."
     },
     "border-tertiary": {
       "value": "$grey.grey-20",
-      "type": "color"
+      "type": "color",
+      "description": "Used for tertiary borders, often for subtle separation."
     },
     "gm-border-base": {
       "value": "$grey.grey-20",
-      "type": "color"
+      "type": "color",
+      "description": "Deprecated"
     },
     "border-btn-disabled": {
       "value": "$grey.grey-70",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the border of disabled buttons."
     },
     "border-input": {
       "value": "$grey.grey-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the borders of input fields."
     }
   },
   "overlay": {
     "overlay-scrim": {
       "value": "rgba($base.black, $opacity-scrim)",
-      "type": "color"
+      "type": "color",
+      "description": "Used for a semi-transparent scrim overlay."
     },
     "overlay-gradient": {
       "value": "linear-gradient (0deg, rgba({base.black} , 0.4) 0%, rgba({base.black} , 0) 100%)",
-      "type": "color"
+      "type": "color",
+      "description": "Used for a gradient overlay effect."
     },
     "overlay-gradient-primary-on-avatar-edit": {
       "value": "linear-gradient (0deg, rgba({surface.surface-primary}, 0.7) 0%, rgba({surface.surface-primary}, 1) 100%)",
-      "type": "color"
+      "type": "color",
+      "description": "Used on a primary gradient overlay specifically for avatar editing."
     },
     "overlay-navigation": {
       "value": "rgba({surface.surface-primary} , 0.8)",
-      "type": "color"
+      "type": "color",
+      "description": "Used on semi-transparent overlays on navigation elements."
     },
     "overlay-tooltip-default": {
       "value": "rgba( {grey.grey-30} , 0.8)",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the default background of tooltips."
     },
     "overlay-error": {
       "value": "rgba( {meaning.negative} , 0.8)",
-      "type": "color"
+      "type": "color",
+      "description": "Used for error state overlays."
     },
     "overlay-info": {
       "value": "rgba( {meaning.info} , 0.8)",
-      "type": "color"
+      "type": "color",
+      "description": "Used for informational overlays."
     },
     "overlay-positive": {
       "value": "rgba( {meaning.positive} , 0.8)",
-      "type": "color"
+      "type": "color",
+      "description": "Used for positive feedback overlays."
     }
   },
   "odd-button": {
@@ -187,7 +230,8 @@
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Used for the default state of a unique button type."
     },
     "odd-button-hover": {
       "value": "{base.white}",
@@ -200,7 +244,8 @@
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Used for the hover state of a unique button type."
     },
     "odd-button-disabled": {
       "value": "{base.white}",
@@ -213,7 +258,8 @@
             "space": "lch"
           }
         }
-      }
+      },
+      "description": "Used for the disabled state of a unique button type."
     }
   },
   "feedback": {
@@ -227,7 +273,8 @@
           "verticalPadding": "{space-xsmall}",
           "horizontalPadding": "{space-mezzo-6}"
         },
-        "type": "composition"
+        "type": "composition",
+        "description": "Used for the default styling of tooltips."
       },
       "error": {
         "value": {
@@ -236,7 +283,8 @@
           "borderRadius": "{radius-small}",
           "boxShadow": "{outer.shadow-outer-large}"
         },
-        "type": "composition"
+        "type": "composition",
+        "description": "Used for the error state styling of tooltips."
       },
       "info": {
         "value": {
@@ -245,7 +293,8 @@
           "borderRadius": "{radius-small}",
           "boxShadow": "{outer.shadow-outer-large}"
         },
-        "type": "composition"
+        "type": "composition",
+        "description": "Used for the informational state styling of tooltips."
       }
     },
     "snackbar": {
@@ -258,7 +307,8 @@
           "boxShadow": "{outer.shadow-outer-large}",
           "backgroundBlur": "12"
         },
-        "type": "composition"
+        "type": "composition",
+        "description": "Used for alert snackbar messages."
       },
       "info": {
         "value": {
@@ -269,7 +319,8 @@
           "boxShadow": "{outer.shadow-outer-large}",
           "backgroundBlur": "12"
         },
-        "type": "composition"
+        "type": "composition",
+        "description": "Used for informational snackbar messages."
       },
       "positive": {
         "value": {
@@ -280,7 +331,8 @@
           "boxShadow": "{outer.shadow-outer-large}",
           "backgroundBlur": "12"
         },
-        "type": "composition"
+        "type": "composition",
+        "description": "Used for positive feedback snackbar messages."
       }
     }
   },
@@ -290,14 +342,16 @@
         "fill": "{overlay.overlay-navigation}",
         "backgroundBlur": "8"
       },
-      "type": "composition"
+      "type": "composition",
+      "description": "Used for the styling of the navigation bar."
     },
     "glass-gradient-primary-on-avatar-edit": {
       "value": {
         "fill": "{overlay.overlay-gradient-primary-on-avatar-edit}",
         "backgroundBlur": "10"
       },
-      "type": "composition"
+      "type": "composition",
+      "description": "Used on a glass-effect gradient on the avatar editing surface."
     }
   }
 }

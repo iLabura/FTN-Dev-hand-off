@@ -2,161 +2,199 @@
   "surface": {
     "surface-brand": {
       "value": "$brand.psk-brand-primary",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the primary brand surface."
     },
     "surface-brand--hover": {
       "value": "$brand.psk-brand-primary-light",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the hover state of the primary brand surface."
     },
     "surface-brand-dark": {
       "value": "$brand.psk-brand-primary-dark",
-      "type": "color"
+      "type": "color",
+      "description": "Used for a darker shade of the primary brand surface."
     },
     "surface-highlighted": {
       "value": "$green.green-60",
-      "type": "color"
+      "type": "color",
+      "description": "Used for highlighted surfaces."
     },
     "surface-selected": {
       "value": "$brand.psk-brand-secondary",
-      "type": "color"
+      "type": "color",
+      "description": "Used for selected surfaces."
     },
     "surface-selected-hover": {
       "value": "$brand.psk-brand-secondary-light",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the hover state of selected surfaces."
     },
     "surface-active": {
       "value": "$brand.psk-brand-secondary",
-      "type": "color"
+      "type": "color",
+      "description": "Used for active surfaces."
     },
     "surface-active-hover": {
       "value": "$brand.psk-brand-secondary-light",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the hover state of active surfaces."
     },
     "surface-betslip-badge": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on betslip badges."
     },
     "surface-notification-badge": {
       "value": "{red.red-30}",
-      "type": "color"
+      "type": "color",
+      "description": "Used on notification badges."
     }
   },
   "content": {
     "content-selected": {
       "value": "$brand.psk-brand-secondary",
-      "type": "color"
+      "type": "color",
+      "description": "Used for selected content."
     },
     "content-active": {
       "value": "$brand.psk-brand-secondary",
-      "type": "color"
+      "type": "color",
+      "description": "Used for active content."
     },
     "content-on-brand": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on brand-colored surfaces."
     },
     "content-on-highlighted": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on highlighted surfaces."
     },
     "content-on-selected": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on selected surfaces."
     },
     "content-on-active": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on active surfaces."
     },
     "content-on-positive": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on positive feedback surfaces."
     },
     "content-on-negative": {
       "value": "{base.white}",
-      "type": "color"
+      "type": "color",
+      "description": "Used on negative feedback surfaces."
     },
     "content-on-warning": {
       "value": "{base.black}",
-      "type": "color"
+      "type": "color",
+      "description": "Used on warning surfaces."
     },
     "content-on-info": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on informational surfaces."
     },
     "content-on-money": {
       "value": "$base.black",
-      "type": "color"
+      "type": "color",
+      "description": "Used on money-related surfaces."
     },
     "content-on-win": {
       "value": "$base.black",
-      "type": "color"
+      "type": "color",
+      "description": "Used on win-related surfaces."
     },
     "content-on-live": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used on live indicator surfaces."
     },
     "content-on-betslip-badge": {
       "value": "$base.black",
-      "type": "color"
+      "type": "color",
+      "description": "Used on betslip badges."
     },
     "content-on-notification-badge": {
       "value": "{base.white}",
-      "type": "color"
+      "type": "color",
+      "description": "Used on notification badges."
     }
   },
   "meaning": {
     "positive": {
       "value": "$green.green-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for positive indicators."
     },
     "positive-hover": {
       "value": "$green.green-50",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the hover state of positive indicators."
     },
     "negative": {
       "value": "$red.red-30",
-      "type": "color"
+      "type": "color",
+      "description": "Used for negative indicators."
     },
     "negative-hover": {
       "value": "$red.red-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for the hover state of negative indicators."
     },
     "warning": {
       "value": "$orange.orange-50",
-      "type": "color"
+      "type": "color",
+      "description": "Not used yet."
     },
     "info": {
       "value": "$blue.blue-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for informational indicators."
     },
     "money": {
       "value": "$green.green-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for money-related indicators."
     },
     "win": {
       "value": "{brand.ftn-brand-primary}",
-      "type": "color"
+      "type": "color",
+      "description": "Used for win indicators."
     },
     "favorite": {
       "value": "{brand.ftn-brand-primary}",
-      "type": "color"
+      "type": "color",
+      "description": "Used for favorite indicators."
     },
     "live": {
       "value": "$green.green-40",
-      "type": "color"
+      "type": "color",
+      "description": "Used for live indicators."
     }
   },
   "border": {
     "border-highlighted": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used for highlighted borders."
     },
     "border-active": {
       "value": "$base.white",
-      "type": "color"
+      "type": "color",
+      "description": "Used for active borders."
     },
     "border-selected": {
       "value": "$brand.psk-brand-secondary",
-      "type": "color"
+      "type": "color",
+      "description": "Used for selected borders."
     }
   }
 }
