@@ -49,6 +49,11 @@
       "value": "{red.red-30}",
       "type": "color",
       "description": "Used on notification badges."
+    },
+    "surface-offer-card-badge": {
+      "value": "{mk.badge-green}",
+      "type": "color",
+      "description": "Used on notification badges."
     }
   },
   "content": {
@@ -126,6 +131,10 @@
       "value": "{base.white}",
       "type": "color",
       "description": "Used on notification badges."
+    },
+    "content-offer-card-badge": {
+      "value": "{mk.badge-green}",
+      "type": "color"
     }
   },
   "meaning": {
@@ -195,6 +204,10 @@
       "value": "$brand.ftn-brand-secondary",
       "type": "color",
       "description": "Used for selected borders."
+    },
+    "border-offer-badge": {
+      "value": "{mk.badge-green}",
+      "type": "color"
     }
   }
 }

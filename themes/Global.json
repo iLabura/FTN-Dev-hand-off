@@ -764,5 +764,19 @@
       },
       "type": "boxShadow"
     }
+  },
+  "mk": {
+    "badge-blue": {
+      "value": "#256FD2",
+      "type": "color"
+    },
+    "badge-green": {
+      "value": "#C8E651",
+      "type": "color"
+    },
+    "badge-red": {
+      "value": "#DD3107",
+      "type": "color"
+    }
   }
 }

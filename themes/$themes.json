@@ -83,7 +83,10 @@
       "green.green-10": "S:d0f2a4e2ce29169134fcbb761a7a10bc1b987698,",
       "brand.ftn-brand-secondary-light": "S:75ca6d5b9b1e7501c8ad3dc59e2e51412815ff1a,",
       "brand.ftn-brand-secondary": "S:cb04f11120df015020adfc5e753781b5a36fe7c0,",
-      "brand.ftn-brand-secondary-dark": "S:c06a0d3832d230cab59b54ff4eeedcdb1b2591c0,"
+      "brand.ftn-brand-secondary-dark": "S:c06a0d3832d230cab59b54ff4eeedcdb1b2591c0,",
+      "mk.badge-blue": "S:018b7890a78091ba096ce38d568b9e755f4208cf,",
+      "mk.badge-green": "S:755f0349d406f6691126e9329e59fb45b6bae2f5,",
+      "mk.badge-red": "S:aa75c9df59cce80ecad29328288050adfc9172a3,"
     }
   },
   {
@@ -177,7 +180,10 @@
       "odd-button.odd-button-default": "S:ce736344545242f3850ebd615d278bbf58384662,",
       "odd-button.odd-button-hover": "S:1344cee80a9876eb785bece1f015ed4ccf68c8ca,",
       "odd-button.odd-button-disabled": "S:a29f331ba6b5625801a4287e9fd5630d94407db3,",
-      "surface.surface-comment-blocked": "S:de1e64bae54e5efcb7a4eb6209ec2d2975c1a2ec,"
+      "surface.surface-comment-blocked": "S:de1e64bae54e5efcb7a4eb6209ec2d2975c1a2ec,",
+      "surface.surface-offer-card-badge": "S:e431865716eab668612cbdfe278c80d8a79c6eeb,",
+      "content.content-offer-card-badge": "S:390539218d6e68a19929c4fe80ac4778f570c7b9,",
+      "border.border-offer-badge": "S:aacbe62c05e434e68eb9d89f72bd1c8b73c4eec7,"
     }
   },
   {
@@ -278,7 +284,10 @@
       "odd-button.odd-button-default": "S:cda149d1392f048dc555324e30ea502f29546fef,",
       "odd-button.odd-button-hover": "S:9fee82f9914da7a6f3814c007805cc73f047697c,",
       "odd-button.odd-button-disabled": "S:02f8ae765168919ed2fba51cac44c08e65c16f79,",
-      "surface.surface-comment-blocked": "S:e08f72837d32c43573d404dd59dc1c251ddab202,"
+      "surface.surface-comment-blocked": "S:e08f72837d32c43573d404dd59dc1c251ddab202,",
+      "surface.surface-offer-card-badge": "S:db2d67a3298335226aca44023ed5da24df841b49,",
+      "content.content-offer-card-badge": "S:d38a47fe1bcdec4d7b5c0406e3c16a437c263c14,",
+      "border.border-offer-badge": "S:fc1bee3d70b9aa15c62cc8a447fc56c79be736bc,"
     }
   },
   {
@@ -371,7 +380,10 @@
       "overlay.overlay-positive": "S:9d3e16a8dfffdd4011a18893d0475e8ebb911354,",
       "odd-button.odd-button-default": "S:47392db510d991e72bb7cd69d16329cf9761267e,",
       "odd-button.odd-button-hover": "S:6a7881714fccae0a1dd0dfee89a03b916107d4b2,",
-      "odd-button.odd-button-disabled": "S:52d121f93ceee5dd4e1643c079082bd03d6bce89,"
+      "odd-button.odd-button-disabled": "S:52d121f93ceee5dd4e1643c079082bd03d6bce89,",
+      "surface.surface-offer-card-badge": "S:c055011ff154a84da255f115acf983bcfaf39697,",
+      "content.content-offer-card-badge": "S:154d8b0decdc9eab47e5ae6bb1a4d1787ec866ee,",
+      "border.border-offer-badge": "S:a41adb1db421a4870f7287e11345bd0523c16fa6,"
     }
   },
   {
@@ -464,7 +476,10 @@
       "overlay.overlay-positive": "S:850964d3b44f1117605c5389ae5ebe20800df156,",
       "odd-button.odd-button-default": "S:ec601835c1bcbd0b14bc3db7064c501521be252f,",
       "odd-button.odd-button-hover": "S:1b869ab79eddd58d0268fa031270c850f7a835f0,",
-      "odd-button.odd-button-disabled": "S:491e608d8e380f190b624440039871b59b4887fc,"
+      "odd-button.odd-button-disabled": "S:491e608d8e380f190b624440039871b59b4887fc,",
+      "surface.surface-offer-card-badge": "S:206eee05fba984759c84035b1ab219debdcbc800,",
+      "content.content-offer-card-badge": "S:077a8a1c8a14f9e900de057cbd6e77e4bcf56890,",
+      "border.border-offer-badge": "S:d93dc6eb9a1926c05aed7ea559a9b0464cf71a00,"
     }
   },
   {
@@ -557,7 +572,11 @@
       "overlay.overlay-positive": "S:798e2a093600ae3634f35c6cd890ca8a43fa65ad,",
       "odd-button.odd-button-default": "S:b27055aec5e2675c601cd8fb223c868d80164160,",
       "odd-button.odd-button-hover": "S:4c0714c3a55067fe995fe518dd6299cebc92021b,",
-      "odd-button.odd-button-disabled": "S:97e5798ede2a4bc5bf3fa9a6c8498fd2e1c38ec1,"
+      "odd-button.odd-button-disabled": "S:97e5798ede2a4bc5bf3fa9a6c8498fd2e1c38ec1,",
+      "surface.surface-comment-blocked": "S:3881a9a5b76d660bc82586de0e0d463c1f3c5254,",
+      "surface.surface-offer-card-badge": "S:8237709ec9437b9a0ab5f6108bb24741938826fa,",
+      "content.content-offer-card-badge": "S:137f6c819a24ea34ac9295c3134c8d2418dbf333,",
+      "border.border-offer-badge": "S:27289623ae00203dc2092966c3a2834d46bf4890,"
     }
   },
   {
@@ -650,7 +669,11 @@
       "overlay.overlay-positive": "S:40570dc668630501aa06348a89a78ecbb040d332,",
       "odd-button.odd-button-default": "S:bed81493ab27667f38d706c5ea1f1ab98fa6c654,",
       "odd-button.odd-button-hover": "S:ed0da2e3f69e5b40b18f5959d41218858f35cf6d,",
-      "odd-button.odd-button-disabled": "S:eee2f0940105624cf1c52b8d1e90eb6235fb214a,"
+      "odd-button.odd-button-disabled": "S:eee2f0940105624cf1c52b8d1e90eb6235fb214a,",
+      "surface.surface-comment-blocked": "S:bd6570b1fe5dc3ddac5ce9cad1cdf80e1414e37b,",
+      "surface.surface-offer-card-badge": "S:e06deb9e5c7babd6af7a6610ba061ee226a783b9,",
+      "content.content-offer-card-badge": "S:a9dedff90594f62152af0f01c6677bb9fccb7b4f,",
+      "border.border-offer-badge": "S:4a8574babe4f70ca483ab82137800fd339c16c6c,"
     }
   }
 ]
