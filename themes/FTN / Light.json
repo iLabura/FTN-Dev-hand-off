@@ -208,6 +208,14 @@
     "border-offer-badge": {
       "value": "{mk.badge-green}",
       "type": "color"
+    },
+    "border-brand": {
+      "value": "{brand.ftn-brand-primary}",
+      "type": "color"
+    },
+    "border-brand_hover": {
+      "value": "{brand.ftn-brand-primary-dark}",
+      "type": "color"
     }
   }
 }

@@ -208,6 +208,14 @@
     "border-offer-badge": {
       "value": "{mk.badge-blue}",
       "type": "color"
+    },
+    "border-brand": {
+      "value": "{brand.casa-brand-primary}",
+      "type": "color"
+    },
+    "border-brand_hover": {
+      "value": "{brand.casa-brand-primary-dark}",
+      "type": "color"
     }
   }
 }

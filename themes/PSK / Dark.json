@@ -208,6 +208,14 @@
     "border-offer-badge": {
       "value": "{mk.badge-red}",
       "type": "color"
+    },
+    "border-brand": {
+      "value": "{brand.psk-brand-primary}",
+      "type": "color"
+    },
+    "border-brand_hover": {
+      "value": "{brand.psk-brand-primary-light}",
+      "type": "color"
     }
   }
 }

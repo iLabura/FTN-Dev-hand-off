@@ -777,6 +777,10 @@
     "badge-red": {
       "value": "#DD3107",
       "type": "color"
+    },
+    "live-green": {
+      "value": "#17CF2F",
+      "type": "color"
     }
   }
 }

@@ -94,6 +94,27 @@
         }
       },
       "description": "Used exculsevley on blocked comments inside of chat."
+    },
+    "surface-alpha-50-shift": {
+      "value": "{base.white}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "surface-alpha-50-shift_hover": {
+      "value": "{surface.surface-primary}",
+      "type": "color"
+    },
+    "sufrace-offer-card-live-badge": {
+      "value": "{surface.surface-primary}",
+      "type": "color"
     }
   },
   "content": {
@@ -151,6 +172,10 @@
       "value": "{grey.grey-40}",
       "type": "color",
       "description": "Used for placeholder text in input fields."
+    },
+    "content-live": {
+      "value": "{mk.live-green}",
+      "type": "color"
     }
   },
   "border": {
@@ -183,6 +208,19 @@
       "value": "$grey.grey-50",
       "type": "color",
       "description": "Used for the borders of input fields."
+    },
+    "border-alpha-white-10": {
+      "value": "{base.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
     }
   },
   "overlay": {
