@@ -187,7 +187,13 @@
       "content.content-offer-card-badge": "S:390539218d6e68a19929c4fe80ac4778f570c7b9,",
       "border.border-offer-badge": "S:aacbe62c05e434e68eb9d89f72bd1c8b73c4eec7,",
       "border.border-brand": "S:9519f8079a97a3d444656537328dfba50a367df5,",
-      "border.border-brand_hoveer": "S:2390bb6292001d7b70d736f4cdf9b2eaf4e9e644,"
+      "border.border-brand_hoveer": "S:2390bb6292001d7b70d736f4cdf9b2eaf4e9e644,",
+      "surface.surface-alpha-50-shift": "S:d53fdcbdb7ec470d6780c151f064cee43d0394e1,",
+      "surface.surface-alpha-50-shift_hover": "S:f368a8be5bb8a759e1bbf9ca4d96390b81c5f497,",
+      "surface.sufrace-offer-card-live-badge": "S:152cacfb6591a443ae6e8959f59b43f860accc96,",
+      "content.content-live": "S:28d929f9ff5c1269b32465aa5e7d8434d8837f42,",
+      "border.border-alpha-white-10": "S:a23d8477a4df96ca52dbf4342fbd55c8d0cce0e6,",
+      "border.border-brand_hover": "S:459ce2f3d93ace4183fbf45fb732617a27164dd5,"
     },
     "$figmaVariableReferences": {}
   },

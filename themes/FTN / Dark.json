@@ -212,7 +212,7 @@
       "value": "{brand.ftn-brand-primary}",
       "type": "color"
     },
-    "border-brand_hoveer": {
+    "border-brand_hover": {
       "value": "{brand.ftn-brand-primary-light}",
       "type": "color"
     }
