@@ -112,7 +112,7 @@
       "value": "{surface.surface-primary}",
       "type": "color"
     },
-    "sufrace-offer-card-live-badge": {
+    "surface-offer-card-live-badge": {
       "value": "{surface.surface-primary}",
       "type": "color"
     }

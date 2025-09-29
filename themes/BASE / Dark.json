@@ -112,7 +112,7 @@
         }
       }
     },
-    "sufrace-offer-card-live-badge": {
+    "surface-offer-card-live-badge": {
       "value": "{base.white}",
       "type": "color",
       "$extensions": {
