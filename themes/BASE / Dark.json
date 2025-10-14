@@ -126,7 +126,7 @@
       }
     },
     "surface-homepage-hero-container": {
-      "value": "#ffff",
+      "value": "{base.white}",
       "type": "color"
     }
   },
