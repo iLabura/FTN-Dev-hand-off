@@ -115,6 +115,10 @@
     "surface-offer-card-live-badge": {
       "value": "{surface.surface-primary}",
       "type": "color"
+    },
+    "surface-homepage-hero-container": {
+      "value": "{surface.surface-secondary}",
+      "type": "color"
     }
   },
   "content": {
