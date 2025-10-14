@@ -188,7 +188,13 @@
       "border.border-offer-badge": "S:aacbe62c05e434e68eb9d89f72bd1c8b73c4eec7,",
       "border.border-brand": "S:9519f8079a97a3d444656537328dfba50a367df5,",
       "border.border-brand_hoveer": "S:2390bb6292001d7b70d736f4cdf9b2eaf4e9e644,",
-      "border.border-brand_hover": "S:73919ad1bfb305c984f13790e2d3e4673f45bfd8,"
+      "border.border-brand_hover": "S:73919ad1bfb305c984f13790e2d3e4673f45bfd8,",
+      "surface.surface-alpha-50-shift": "S:d53fdcbdb7ec470d6780c151f064cee43d0394e1,",
+      "surface.surface-alpha-50-shift_hover": "S:f368a8be5bb8a759e1bbf9ca4d96390b81c5f497,",
+      "surface.surface-offer-card-live-badge": "S:bbe3194019c4007a587f06d42c1b41834606b14f,",
+      "surface.surface-homepage-hero-container": "S:3eb47981373ea5f883fc971929e940a7409fd19c,",
+      "content.content-live": "S:28d929f9ff5c1269b32465aa5e7d8434d8837f42,",
+      "border.border-alpha-white-10": "S:a23d8477a4df96ca52dbf4342fbd55c8d0cce0e6,"
     },
     "$figmaVariableReferences": {}
   },
@@ -394,7 +400,14 @@
       "content.content-offer-card-badge": "S:154d8b0decdc9eab47e5ae6bb1a4d1787ec866ee,",
       "border.border-offer-badge": "S:a41adb1db421a4870f7287e11345bd0523c16fa6,",
       "border.border-brand": "S:e75afd87fed5cad2ad1c7c8bbfa9242c106a7239,",
-      "border.border-brand_hover": "S:bbb5ad4d6a6655158e28f2cb60828463856cfe8d,"
+      "border.border-brand_hover": "S:bbb5ad4d6a6655158e28f2cb60828463856cfe8d,",
+      "surface.surface-comment-blocked": "S:b50e5f86ffa708d1bcb206551f760eb10b6f24ac,",
+      "surface.surface-alpha-50-shift": "S:5893154eff94c297fcafad679fc9e784584396ad,",
+      "surface.surface-alpha-50-shift_hover": "S:bf20235824498a3ad369890025a47f4c09399b4e,",
+      "surface.surface-offer-card-live-badge": "S:a3c181a970f0f2df5f9f64c4b9671a8707670b25,",
+      "surface.surface-homepage-hero-container": "S:828350dfabb974b98a93703a746c0390cf1e5ca2,",
+      "content.content-live": "S:08ada9c2975c3ccdd16031d699daa3cfe15b373f,",
+      "border.border-alpha-white-10": "S:0be5ed6f6b01aa049570d7dbe7b7e3ff1c1cb3e9,"
     },
     "$figmaVariableReferences": {}
   },
@@ -493,7 +506,14 @@
       "content.content-offer-card-badge": "S:077a8a1c8a14f9e900de057cbd6e77e4bcf56890,",
       "border.border-offer-badge": "S:d93dc6eb9a1926c05aed7ea559a9b0464cf71a00,",
       "border.border-brand": "S:b5e67d51a0aacef8890e0337d37d2ad0d651431d,",
-      "border.border-brand_hover": "S:eb9c21a0af5a60e04333d5e7c771cefca9421589,"
+      "border.border-brand_hover": "S:eb9c21a0af5a60e04333d5e7c771cefca9421589,",
+      "surface.surface-comment-blocked": "S:d8c69311beaebeb307f0a2d3ef51fffb72c8d840,",
+      "surface.surface-alpha-50-shift": "S:2468746e8501420a5ad2ca3a89534b52d3fdf5d7,",
+      "surface.surface-alpha-50-shift_hover": "S:c2e5d53df1b2bcf65eef97881bb07846f202cd11,",
+      "surface.surface-offer-card-live-badge": "S:ff47cbdec68fb43fa52191b915a797d5576d3770,",
+      "surface.surface-homepage-hero-container": "S:ba78ab82e9c72905eb51371314d47caa0e59603d,",
+      "content.content-live": "S:df91580e5e8ad75afc7040d1444135ad1e8edec0,",
+      "border.border-alpha-white-10": "S:a6589d8eebf7c5dcf58aae3d5f738af6e972cc8a,"
     },
     "$figmaVariableReferences": {}
   },
@@ -598,7 +618,9 @@
       "border.border-alpha-white-10": "S:c661f6204862131bee2bcbceced3da3e4db54b33,",
       "surface.sufrace-offer-card-live-badge": "S:450c7ba8f153d82504e946a1d735acb4e04bca60,",
       "border.border-brand": "S:2409fd525ac2beae5384c364c057c6f7ae81e66f,",
-      "border.border-brand_hover": "S:8066d765175c75c9295993f1684451e5ff1296df,"
+      "border.border-brand_hover": "S:8066d765175c75c9295993f1684451e5ff1296df,",
+      "surface.surface-offer-card-live-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,",
+      "surface.surface-homepage-hero-container": "S:6d161709662df0841b1857a26258d89e81b14488,"
     },
     "$figmaVariableReferences": {}
   },
@@ -703,7 +725,9 @@
       "border.border-alpha-white-10": "S:d4f5bf6751a00a2159ad22ca266c543e74939b69,",
       "surface.sufrace-offer-card-live-badge": "S:47d4a22ecd6716add85ae111830fe74a8d2fa0c7,",
       "border.border-brand": "S:8e44883532b979d4e6a49deec3745b153cdcb4ae,",
-      "border.border-brand_hover": "S:0ed1b843822133fbba506b613e883071445f311b,"
+      "border.border-brand_hover": "S:0ed1b843822133fbba506b613e883071445f311b,",
+      "surface.surface-offer-card-live-badge": "S:f43d3be6d720f6b63100efee9f5ebd8ce1ccf322,",
+      "surface.surface-homepage-hero-container": "S:1380aceb7a4732aea89334f996bd84e949f4c20b,"
     },
     "$figmaVariableReferences": {}
   }
