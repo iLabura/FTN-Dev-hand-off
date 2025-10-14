@@ -124,6 +124,10 @@
           }
         }
       }
+    },
+    "surface-homepage-hero-container": {
+      "value": "#ffff",
+      "type": "color"
     }
   },
   "content": {
