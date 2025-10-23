@@ -192,9 +192,10 @@
       "surface.surface-alpha-50-shift": "S:d53fdcbdb7ec470d6780c151f064cee43d0394e1,",
       "surface.surface-alpha-50-shift_hover": "S:f368a8be5bb8a759e1bbf9ca4d96390b81c5f497,",
       "surface.surface-offer-card-live-badge": "S:bbe3194019c4007a587f06d42c1b41834606b14f,",
-      "surface.surface-homepage-hero-container": "S:3eb47981373ea5f883fc971929e940a7409fd19c,",
       "content.content-live": "S:28d929f9ff5c1269b32465aa5e7d8434d8837f42,",
-      "border.border-alpha-white-10": "S:a23d8477a4df96ca52dbf4342fbd55c8d0cce0e6,"
+      "border.border-alpha-white-10": "S:a23d8477a4df96ca52dbf4342fbd55c8d0cce0e6,",
+      "surface.surface-homepage-hero-container": "S:3eb47981373ea5f883fc971929e940a7409fd19c,",
+      "content.content-offer-card-badge-active": "S:87c5a2cd6ec02d6601d43a0f0986c6a7ee89ae7b,"
     },
     "$figmaVariableReferences": {}
   },
@@ -301,7 +302,8 @@
       "content.content-offer-card-badge": "S:d38a47fe1bcdec4d7b5c0406e3c16a437c263c14,",
       "border.border-offer-badge": "S:fc1bee3d70b9aa15c62cc8a447fc56c79be736bc,",
       "border.border-brand": "S:79eaf9806ff7b32617fc88cdb875cd24f33be4f7,",
-      "border.border-brand_hover": "S:22270cdce523d2692ffe54300d53efbcfec9b3f1,"
+      "border.border-brand_hover": "S:22270cdce523d2692ffe54300d53efbcfec9b3f1,",
+      "content.content-offer-card-badge-active": "S:60fe14a84c00e1ac96cc947f83c9aedcee3328be,"
     },
     "$figmaVariableReferences": {}
   },
@@ -405,9 +407,10 @@
       "surface.surface-alpha-50-shift": "S:5893154eff94c297fcafad679fc9e784584396ad,",
       "surface.surface-alpha-50-shift_hover": "S:bf20235824498a3ad369890025a47f4c09399b4e,",
       "surface.surface-offer-card-live-badge": "S:a3c181a970f0f2df5f9f64c4b9671a8707670b25,",
-      "surface.surface-homepage-hero-container": "S:828350dfabb974b98a93703a746c0390cf1e5ca2,",
       "content.content-live": "S:08ada9c2975c3ccdd16031d699daa3cfe15b373f,",
-      "border.border-alpha-white-10": "S:0be5ed6f6b01aa049570d7dbe7b7e3ff1c1cb3e9,"
+      "border.border-alpha-white-10": "S:0be5ed6f6b01aa049570d7dbe7b7e3ff1c1cb3e9,",
+      "surface.surface-homepage-hero-container": "S:828350dfabb974b98a93703a746c0390cf1e5ca2,",
+      "content.content-offer-card-badge-active": "S:e030c700a7b6275e05ad0b9a973cdd07763847c2,"
     },
     "$figmaVariableReferences": {}
   },
@@ -511,9 +514,10 @@
       "surface.surface-alpha-50-shift": "S:2468746e8501420a5ad2ca3a89534b52d3fdf5d7,",
       "surface.surface-alpha-50-shift_hover": "S:c2e5d53df1b2bcf65eef97881bb07846f202cd11,",
       "surface.surface-offer-card-live-badge": "S:ff47cbdec68fb43fa52191b915a797d5576d3770,",
-      "surface.surface-homepage-hero-container": "S:ba78ab82e9c72905eb51371314d47caa0e59603d,",
       "content.content-live": "S:df91580e5e8ad75afc7040d1444135ad1e8edec0,",
-      "border.border-alpha-white-10": "S:a6589d8eebf7c5dcf58aae3d5f738af6e972cc8a,"
+      "border.border-alpha-white-10": "S:a6589d8eebf7c5dcf58aae3d5f738af6e972cc8a,",
+      "surface.surface-homepage-hero-container": "S:ba78ab82e9c72905eb51371314d47caa0e59603d,",
+      "content.content-offer-card-badge-active": "S:8b9c4fda74b89640a1581f31bb13df6deffabf01,"
     },
     "$figmaVariableReferences": {}
   },
@@ -620,7 +624,8 @@
       "border.border-brand": "S:2409fd525ac2beae5384c364c057c6f7ae81e66f,",
       "border.border-brand_hover": "S:8066d765175c75c9295993f1684451e5ff1296df,",
       "surface.surface-offer-card-live-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,",
-      "surface.surface-homepage-hero-container": "S:6d161709662df0841b1857a26258d89e81b14488,"
+      "surface.surface-homepage-hero-container": "S:6d161709662df0841b1857a26258d89e81b14488,",
+      "content.content-offer-card-badge-active": "S:3c8d8e8aead72a10a28ad624b771047b0eb94520,"
     },
     "$figmaVariableReferences": {}
   },
@@ -727,7 +732,8 @@
       "border.border-brand": "S:8e44883532b979d4e6a49deec3745b153cdcb4ae,",
       "border.border-brand_hover": "S:0ed1b843822133fbba506b613e883071445f311b,",
       "surface.surface-offer-card-live-badge": "S:f43d3be6d720f6b63100efee9f5ebd8ce1ccf322,",
-      "surface.surface-homepage-hero-container": "S:1380aceb7a4732aea89334f996bd84e949f4c20b,"
+      "surface.surface-homepage-hero-container": "S:1380aceb7a4732aea89334f996bd84e949f4c20b,",
+      "content.content-offer-card-badge-active": "S:21bac5a0325d299c1da367515913f56b4d1befbf,"
     },
     "$figmaVariableReferences": {}
   }

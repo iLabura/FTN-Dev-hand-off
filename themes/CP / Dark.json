@@ -135,6 +135,10 @@
     "content-offer-card-badge": {
       "value": "{mk.badge-blue}",
       "type": "color"
+    },
+    "content-offer-card-badge-active": {
+      "value": "{base.white}",
+      "type": "color"
     }
   },
   "meaning": {
