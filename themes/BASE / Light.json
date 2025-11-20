@@ -244,28 +244,73 @@
       "description": "Used on a primary gradient overlay specifically for avatar editing."
     },
     "overlay-navigation": {
-      "value": "rgba({surface.surface-primary} , 0.8)",
+      "value": "{surface.surface-primary}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      },
       "description": "Used on semi-transparent overlays on navigation elements."
     },
     "overlay-tooltip-default": {
-      "value": "rgba( {grey.grey-30} , 0.8)",
+      "value": "{grey.grey-30}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      },
       "description": "Used for the default background of tooltips."
     },
     "overlay-error": {
-      "value": "rgba( {meaning.negative} , 0.8)",
+      "value": "{meaning.negative}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      },
       "description": "Used for error state overlays."
     },
     "overlay-info": {
-      "value": "rgba( {meaning.info} , 0.8)",
+      "value": "{meaning.info}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      },
       "description": "Used for informational overlays."
     },
     "overlay-positive": {
-      "value": "rgba( {meaning.positive} , 0.8)",
+      "value": "{meaning.positive}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      },
       "description": "Used for positive feedback overlays."
     }
   },
