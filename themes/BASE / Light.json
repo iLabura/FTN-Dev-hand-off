@@ -112,7 +112,7 @@
       "value": "{surface.surface-primary}",
       "type": "color"
     },
-    "surface-offer-card-live-badge": {
+    "surface-offer-card-time-badge": {
       "value": "{surface.surface-primary}",
       "type": "color"
     },

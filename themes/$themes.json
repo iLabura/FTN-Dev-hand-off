@@ -625,7 +625,8 @@
       "border.border-brand_hover": "S:8066d765175c75c9295993f1684451e5ff1296df,",
       "surface.surface-offer-card-live-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,",
       "surface.surface-homepage-hero-container": "S:6d161709662df0841b1857a26258d89e81b14488,",
-      "content.content-offer-card-badge-active": "S:3c8d8e8aead72a10a28ad624b771047b0eb94520,"
+      "content.content-offer-card-badge-active": "S:3c8d8e8aead72a10a28ad624b771047b0eb94520,",
+      "surface.surface-offer-card-time-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,"
     },
     "$figmaVariableReferences": {}
   },
@@ -733,7 +734,8 @@
       "border.border-brand_hover": "S:0ed1b843822133fbba506b613e883071445f311b,",
       "surface.surface-offer-card-live-badge": "S:f43d3be6d720f6b63100efee9f5ebd8ce1ccf322,",
       "surface.surface-homepage-hero-container": "S:1380aceb7a4732aea89334f996bd84e949f4c20b,",
-      "content.content-offer-card-badge-active": "S:21bac5a0325d299c1da367515913f56b4d1befbf,"
+      "content.content-offer-card-badge-active": "S:21bac5a0325d299c1da367515913f56b4d1befbf,",
+      "surface.surface-offer-card-time-badge": "S:f43d3be6d720f6b63100efee9f5ebd8ce1ccf322,"
     },
     "$figmaVariableReferences": {}
   }
