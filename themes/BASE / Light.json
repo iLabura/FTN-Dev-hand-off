@@ -172,7 +172,7 @@
       "type": "color",
       "description": "Used for indicating errors in text or icons."
     },
-    "contet-placeholder": {
+    "content-placeholder": {
       "value": "{grey.grey-40}",
       "type": "color",
       "description": "Used for placeholder text in input fields."

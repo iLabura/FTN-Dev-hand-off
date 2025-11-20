@@ -626,7 +626,8 @@
       "surface.surface-offer-card-live-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,",
       "surface.surface-homepage-hero-container": "S:6d161709662df0841b1857a26258d89e81b14488,",
       "content.content-offer-card-badge-active": "S:3c8d8e8aead72a10a28ad624b771047b0eb94520,",
-      "surface.surface-offer-card-time-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,"
+      "surface.surface-offer-card-time-badge": "S:987e073d9b8a937ecf919131fa26162c924bba93,",
+      "content.content-placeholder": "S:7553bfb1d60cf69627cbb797c6ac7e13063413a1,"
     },
     "$figmaVariableReferences": {}
   },
