@@ -54,6 +54,19 @@
       "value": "{mk.badge-red}",
       "type": "color",
       "description": "Used on notification badges."
+    },
+    "sruface-brand-alpha-30": {
+      "value": "{brand.psk-brand-primary}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
+            "space": "lch"
+          }
+        }
+      }
     }
   },
   "content": {
@@ -219,6 +232,16 @@
     },
     "border-brand_hover": {
       "value": "{brand.psk-brand-primary-dark}",
+      "type": "color"
+    }
+  },
+  "gradient": {
+    "mk-ako-card": {
+      "value": "linear-gradient (90deg, rgba( {brand.psk-brand-primary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "type": "color"
+    },
+    "mk-wc-ako-card": {
+      "value": "linear-gradient (90deg, rgba( {brand.psk-brand-primary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
       "type": "color"
     }
   }
