@@ -236,12 +236,12 @@
   },
   "gradient": {
     "mk-ako-card": {
-      "value": "linear-gradient (90deg, rgba({brand.ftn-brand-primary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "value": "linear-gradient (90deg, rgba({brand.ftn-brand-primary} , 0.5) 0%, rgba( {brand.ftn-brand-primary} , 0) 100%)",
       "type": "color",
       "description": "Used for the primary brand surface."
     },
     "mk-wc-ako-card": {
-      "value": "linear-gradient (90deg, rgba( {brand.ftn-brand-secondary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "value": "linear-gradient (90deg, rgba( {brand.ftn-brand-secondary} , 0.5) 0%, rgba( {brand.ftn-brand-secondary} , 0.2) 100%)",
       "type": "color",
       "description": "Used for the primary brand surface."
     }

@@ -237,11 +237,11 @@
   },
   "gradient": {
     "mk-ako-card": {
-      "value": "linear-gradient (90deg, rgba( {brand.casa-brand-primary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "value": "linear-gradient (90deg, rgba( {brand.casa-brand-primary} , 0.5) 0%, rgba( {brand.casa-brand-primary} , 0.2) 100%)",
       "type": "color"
     },
     "mk-wc-ako-card": {
-      "value": "linear-gradient (90deg, rgba( {brand.casa-brand-primary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "value": "linear-gradient (90deg, rgba( {brand.casa-brand-primary} , 0.5) 0%, rgba( {brand.casa-brand-primary} , 0.2) 100%)",
       "type": "color"
     }
   }

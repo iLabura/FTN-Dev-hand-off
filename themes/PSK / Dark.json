@@ -21,22 +21,22 @@
       "description": "Used for highlighted surfaces."
     },
     "surface-selected": {
-      "value": "$brand.psk-brand-secondary",
+      "value": "$brand.psk-brand-primary",
       "type": "color",
       "description": "Used for selected surfaces."
     },
     "surface-selected-hover": {
-      "value": "$brand.psk-brand-secondary-light",
+      "value": "$brand.psk-brand-primary-light",
       "type": "color",
       "description": "Used for the hover state of selected surfaces."
     },
     "surface-active": {
-      "value": "$brand.psk-brand-secondary",
+      "value": "$brand.psk-brand-primary",
       "type": "color",
       "description": "Used for active surfaces."
     },
     "surface-active-hover": {
-      "value": "$brand.psk-brand-secondary-light",
+      "value": "$brand.psk-brand-primary-light",
       "type": "color",
       "description": "Used for the hover state of active surfaces."
     },
@@ -71,12 +71,12 @@
   },
   "content": {
     "content-selected": {
-      "value": "$brand.psk-brand-secondary",
+      "value": "$brand.psk-brand-primary-light-content",
       "type": "color",
       "description": "Used for selected content."
     },
     "content-active": {
-      "value": "$brand.psk-brand-secondary",
+      "value": "$brand.psk-brand-primary-light-content",
       "type": "color",
       "description": "Used for active content."
     },
@@ -218,7 +218,7 @@
       "description": "Used for active borders."
     },
     "border-selected": {
-      "value": "$brand.psk-brand-secondary",
+      "value": "$brand.psk-brand-primary",
       "type": "color",
       "description": "Used for selected borders."
     },
@@ -237,11 +237,11 @@
   },
   "gradient": {
     "mk-ako-card": {
-      "value": "linear-gradient (90deg, rgba( {brand.psk-brand-secondary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "value": "linear-gradient (90deg, rgba( {brand.psk-brand-secondary} , 0.5) 0%, rgba( {brand.psk-brand-secondary} , 0.2) 100%)",
       "type": "color"
     },
     "mk-wc-ako-card": {
-      "value": "linear-gradient (90deg, rgba( {brand.psk-brand-secondary} , 1) 0%, rgba( {background.background-base} , 1) 100%)",
+      "value": "linear-gradient (90deg, rgba( {brand.psk-brand-secondary} , 0.5) 0%, rgba( {brand.psk-brand-secondary} , 0.2) 100%)",
       "type": "color"
     }
   }

@@ -380,6 +380,20 @@
       "description": "Used for the disabled state of a unique button type."
     }
   },
+  "gradient": {
+    "mk-ai-border-start": {
+      "value": "#B780FF",
+      "type": "color"
+    },
+    "mk-ai-border-mid": {
+      "value": "#F2E9FF",
+      "type": "color"
+    },
+    "mk-ai-border-end": {
+      "value": "#806BFF",
+      "type": "color"
+    }
+  },
   "feedback": {
     "tooltip": {
       "default": {

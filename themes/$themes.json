@@ -87,7 +87,8 @@
       "mk.badge-blue": "S:018b7890a78091ba096ce38d568b9e755f4208cf,",
       "mk.badge-green": "S:755f0349d406f6691126e9329e59fb45b6bae2f5,",
       "mk.badge-red": "S:aa75c9df59cce80ecad29328288050adfc9172a3,",
-      "mk.live-green": "S:1188034b474b0638517cab2eb5074a2e8281007e,"
+      "mk.live-green": "S:1188034b474b0638517cab2eb5074a2e8281007e,",
+      "brand.psk-brand-primary-light-content": "S:4b370cac3035bfe12c05446751a72cf9a50b5a3f,"
     },
     "$figmaVariableReferences": {}
   },
@@ -643,7 +644,10 @@
       "border.border-alpha-white-20": "S:409378d7fbdc74dbffde98852fb6c25fbafe2f07,",
       "surface.sruface-brand-alpha-30": "S:e98e0dc8fcd1a40bdbffecf08b836c1a655caaa6,",
       "gradient.mk-ako-card": "S:82462a684279bd4a5197f494122413de254ddcba,",
-      "gradient.mk-wc-ako-card": "S:f3d16a608bd5668a5bdf5332e782be8bb98e62ac,"
+      "gradient.mk-wc-ako-card": "S:f3d16a608bd5668a5bdf5332e782be8bb98e62ac,",
+      "gradient.mk-ai-border-start": "S:a3feab177b864d41089f4b9c84a332f4de5cd1f3,",
+      "gradient.mk-ai-border-mid": "S:fcbe460ce2d52b33f0f19a8acf8bc6e9b6300a95,",
+      "gradient.mk-ai-border-end": "S:291e471b92eb4e738927c016f0b966c2f0b8106d,"
     },
     "$figmaVariableReferences": {}
   },
@@ -756,7 +760,10 @@
       "border.border-alpha-white-20": "S:cf95325a3818e6192e664ff3bd4e166e2f5d7e24,",
       "surface.sruface-brand-alpha-30": "S:a4c4aa7978aa2df01b44f1d4ff86430e684a50e8,",
       "gradient.mk-ako-card": "S:3aaf53b3ce7b4cd460e02aeeb22b0d61abcb18e1,",
-      "gradient.mk-wc-ako-card": "S:d8f66423b8b7a46a5aab5724a58b6ba99384d686,"
+      "gradient.mk-wc-ako-card": "S:d8f66423b8b7a46a5aab5724a58b6ba99384d686,",
+      "gradient.mk-ai-border-start": "S:4d017262361904e10ebe9e8bed008ecb5ebc593c,",
+      "gradient.mk-ai-border-mid": "S:b864246c4d523b96425b16a03c8c4d1f3315009f,",
+      "gradient.mk-ai-border-end": "S:3b1f86c251262e26140cd4e258aa022d36ebda95,"
     },
     "$figmaVariableReferences": {}
   }
