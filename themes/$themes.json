@@ -199,7 +199,8 @@
       "content.content-offer-card-badge-active": "S:87c5a2cd6ec02d6601d43a0f0986c6a7ee89ae7b,",
       "surface.sruface-brand-alpha-30": "S:a0e0f8ed81da1e18631fe9d1d648a0c60795cd87,",
       "gradient.mk-ako-card": "S:41e517818129efe6e209470b01d0e698047d9aee,",
-      "gradient.mk-wc-ako-card": "S:fad586072b5dc1d329c7a5a17fd8571c41d83ea0,"
+      "gradient.mk-wc-ako-card": "S:fad586072b5dc1d329c7a5a17fd8571c41d83ea0,",
+      "gradient.mk-cas-cs-card": "S:2960ea65ebdbd43db4d985e0dc8232c8daf96d83,"
     },
     "$figmaVariableReferences": {}
   },
@@ -310,7 +311,8 @@
       "content.content-offer-card-badge-active": "S:60fe14a84c00e1ac96cc947f83c9aedcee3328be,",
       "surface.sruface-brand-alpha-30": "S:6ff2e33354983526b5df07c13a79fe84ecaac3b6,",
       "gradient.mk-ako-card": "S:db7df2a2d78c454635d84625d3c62d49d89c864e,",
-      "gradient.mk-wc-ako-card": "S:2c88d630fd54c8eb832f35464697d3b45d96df9f,"
+      "gradient.mk-wc-ako-card": "S:2c88d630fd54c8eb832f35464697d3b45d96df9f,",
+      "gradient.mk-cas-cs-card": "S:7affb51e0037a6b89560b9b8ac5d1515b68dcc80,"
     },
     "$figmaVariableReferences": {}
   },
@@ -420,7 +422,8 @@
       "content.content-offer-card-badge-active": "S:e030c700a7b6275e05ad0b9a973cdd07763847c2,",
       "surface.sruface-brand-alpha-30": "S:553932eafa56bd229831c4c0af46767670643609,",
       "gradient.mk-ako-card": "S:29bf3902c68f129d80d4f08646bb36e9fea8cced,",
-      "gradient.mk-wc-ako-card": "S:2f3cad271b72ec3f2ca073e1017789a482352ba7,"
+      "gradient.mk-wc-ako-card": "S:2f3cad271b72ec3f2ca073e1017789a482352ba7,",
+      "gradient.mk-cas-cs-card": "S:c6019638b8dcd7b8d738fc57eda6a05f4ba029d6,"
     },
     "$figmaVariableReferences": {}
   },
@@ -530,7 +533,8 @@
       "content.content-offer-card-badge-active": "S:8b9c4fda74b89640a1581f31bb13df6deffabf01,",
       "surface.sruface-brand-alpha-30": "S:5b56b3eab768601feee45b3d2100c37b1386d159,",
       "gradient.mk-ako-card": "S:184a7ca35981bb8cdcfb668b466c3a6d46b4a259,",
-      "gradient.mk-wc-ako-card": "S:53910ed9a0ffdde30c7b76344c0f8842cea9a7dc,"
+      "gradient.mk-wc-ako-card": "S:53910ed9a0ffdde30c7b76344c0f8842cea9a7dc,",
+      "gradient.mk-cas-cs-card": "S:6d75dbecf06ee2239172093ca10800d633d55c89,"
     },
     "$figmaVariableReferences": {}
   },
@@ -647,7 +651,8 @@
       "gradient.mk-wc-ako-card": "S:f3d16a608bd5668a5bdf5332e782be8bb98e62ac,",
       "gradient.mk-ai-border-start": "S:a3feab177b864d41089f4b9c84a332f4de5cd1f3,",
       "gradient.mk-ai-border-mid": "S:fcbe460ce2d52b33f0f19a8acf8bc6e9b6300a95,",
-      "gradient.mk-ai-border-end": "S:291e471b92eb4e738927c016f0b966c2f0b8106d,"
+      "gradient.mk-ai-border-end": "S:291e471b92eb4e738927c016f0b966c2f0b8106d,",
+      "gradient.mk-cas-cs-card": "S:6c10a2436e4b172a7aec11d203bc99a4f9fab64f,"
     },
     "$figmaVariableReferences": {}
   },
@@ -763,7 +768,8 @@
       "gradient.mk-wc-ako-card": "S:d8f66423b8b7a46a5aab5724a58b6ba99384d686,",
       "gradient.mk-ai-border-start": "S:4d017262361904e10ebe9e8bed008ecb5ebc593c,",
       "gradient.mk-ai-border-mid": "S:b864246c4d523b96425b16a03c8c4d1f3315009f,",
-      "gradient.mk-ai-border-end": "S:3b1f86c251262e26140cd4e258aa022d36ebda95,"
+      "gradient.mk-ai-border-end": "S:3b1f86c251262e26140cd4e258aa022d36ebda95,",
+      "gradient.mk-cas-cs-card": "S:6e21affc8bd05225c8afd66643e619005a31b5e1,"
     },
     "$figmaVariableReferences": {}
   }

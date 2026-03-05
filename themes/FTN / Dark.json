@@ -236,7 +236,12 @@
   },
   "gradient": {
     "mk-ako-card": {
-      "value": "linear-gradient (90deg, rgba({brand.ftn-brand-primary} , 0) 0%, rgba( {brand.ftn-brand-primary} , 0.2) 100%)",
+      "value": "linear-gradient (90deg, rgba({brand.ftn-brand-primary} , 0) 0%, rgba( {brand.ftn-brand-primary} , 0.1) 100%)",
+      "type": "color",
+      "description": "Used for the primary brand surface."
+    },
+    "mk-cas-cs-card": {
+      "value": "linear-gradient (90deg, rgba({brand.ftn-brand-primary} , 0) 0%, rgba( {brand.ftn-brand-primary} , 0.25) 100%)",
       "type": "color",
       "description": "Used for the primary brand surface."
     },
